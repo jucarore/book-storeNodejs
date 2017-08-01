@@ -8,6 +8,7 @@ This project implements a BookStore usign NodeJS, Angular and MongoDB
     Express
     NodeJS
     Mongoose
+    AngularJS
     
     
     
@@ -22,13 +23,13 @@ Before to run the app you need:
      ```
  ## Authors
  
- * **Juan Camilo Rodriguez** - *Initial work* - [book-store-MongoDB](https://github.com/jucarore/book-store-MongoDB)
+ * **Juan Camilo Rodriguez** - *Initial work* - [book-storeNodejs](https://github.com/jucarore/book-storeNodejs)
  
- See also the list of [contributors](https://github.com/jucarore/book-store-MongoDB/contributors) who participated in this project.
+ See also the list of [contributors](https://github.com/jucarore/book-storeNodejs/contributors) who participated in this project.
  
  ## Live Example
  
- * [book-store-MongoDB](http://ec2-18-231-44-254.sa-east-1.compute.amazonaws.com:10010/docs) - The app example
+ * [book-store](http://ec2-18-231-44-254.sa-east-1.compute.amazonaws.com:3000/) - The app example
  
 
 
